@@ -1,5 +1,6 @@
 ### Hi there, I'm [Jaesuk](https://velog.io/@suhjaesuk)👋
-Currently studying backend (using Spring).
+Currently studying backend using Spring.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhjaesuk&show_icons=true&theme=radical)
 <!--
 **suhjaesuk/suhjaesuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
