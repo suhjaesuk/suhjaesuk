@@ -6,14 +6,14 @@
 ### 🎤 Introduce
 
 I'm currently studying backend development.<br>
-I like to communicate with developers and try to grow up together 🌳
+I enjoy discussing and sharing opinions with each other. 🙋‍♂️
 
 
-### 🧑🏻‍💻 Education
+### 🧑‍💻 Education
 - Web Backend 10th at Hanghae99 &nbsp;<sub>(Nov 2022 – Feb 2023)</sub>
 
 
-### 🔮 Interest
+### 🏄 Interest
 - Backend Development &nbsp;<sub>(Java, Spring, JPA)</sub>
 - Clean Code
 
