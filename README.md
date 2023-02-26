@@ -1,7 +1,7 @@
 ### Hi there, I'm Jaesuk
 
 [![Résumé](https://img.shields.io/badge/Résumé-FF6900?style=flat-round&logo=Read-the-Docs&logoColor=white&link=https://suhjaesuk.oopy.io/)](https://suhjaesuk.oopy.io/)
-[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-round&logo=github&link=https://jaesuks-devlog.oopy.io/)](https://jaesuks-devlog.oopy.io/)
+[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-round&logo=github&link=https://suhjaesuk.oopy.io/jaesuks-devlog](https://suhjaesuk.oopy.io/jaesuks-devlog)
 
 ### 🎤 Introduce
 
