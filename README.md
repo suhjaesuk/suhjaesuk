@@ -16,7 +16,7 @@ I enjoy discussing and sharing opinions with each other. 🙋‍♂️
 ### 🏄 Interest
 - Backend Development &nbsp;<sub>(Java, Spring, JPA)</sub>
 - Clean Code
-- [Photograph](https://www.instagram.com/suhyuwol_/)
+- Test Code
 
 
 ### 🛠 Tech Stack
